@@ -1,1 +1,1 @@
-# Chokhi_Baati_HTML_CSS
+This simple recipe website, Chokhi Baati, was created by me while learning HTML and CSS. It showcases a Rajasthani thali menu with a responsive layout, custom styling, and visually appealing content. The project helped me understand layout design, flexbox, grid systems, and basic responsive web development techniques.
